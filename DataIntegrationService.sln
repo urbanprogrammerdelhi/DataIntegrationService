@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataIntegrationService", "DataIntegrationService\DataIntegrationService.csproj", "{B5ADC1F2-D3DC-40DF-A027-D9C3AD9B501B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingLibrary", "LoggingLibrary\LoggingLibrary.csproj", "{547524A5-FAAD-49FD-85DB-6E4034ACD064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ADC1F2-D3DC-40DF-A027-D9C3AD9B501B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ADC1F2-D3DC-40DF-A027-D9C3AD9B501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ADC1F2-D3DC-40DF-A027-D9C3AD9B501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ADC1F2-D3DC-40DF-A027-D9C3AD9B501B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1993A3-1590-4324-8F63-8244DAECCA07}
+	EndGlobalSection
+EndGlobal
